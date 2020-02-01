@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "836350308127",
+    "firebase_url": "https://flutter-firebase-tutoria-95e94.firebaseio.com",
+    "project_id": "flutter-firebase-tutoria-95e94",
+    "storage_bucket": "flutter-firebase-tutoria-95e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836350308127:android:ea14d678194f4a5391ca2a",
+        "android_client_info": {
+          "package_name": "com.wahyutrip.codemagic_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836350308127-7kstkp7jsqjuhkuotoeqhhqueqb7tt7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJlmoBMjzG1NsJofOMF6HlJ4ekckL_pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836350308127-7kstkp7jsqjuhkuotoeqhhqueqb7tt7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836350308127:android:7467ba9380f4b99291ca2a",
+        "android_client_info": {
+          "package_name": "com.wahyutrip.flutterpub_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836350308127-7kstkp7jsqjuhkuotoeqhhqueqb7tt7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJlmoBMjzG1NsJofOMF6HlJ4ekckL_pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836350308127-7kstkp7jsqjuhkuotoeqhhqueqb7tt7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
